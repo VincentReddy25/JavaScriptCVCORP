@@ -47,18 +47,18 @@
 // console.log(obj.myArray);
 
 
-var data = [
-    {
-        name: "product 1",
-        price: 23
-    },
-    {
-        name: "product 2",
-        price: 34
-    }
-]
+// var data = [
+//     {
+//         name: "product 1",
+//         price: 23
+//     },
+//     {
+//         name: "product 2",
+//         price: 34
+//     }
+// ]
 
-console.log(data[1].name);
+// console.log(data[1].name);
 
 
 

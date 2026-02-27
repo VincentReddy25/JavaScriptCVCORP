@@ -30,6 +30,9 @@ console.log(display);
 let hellosss = document.getElementsByClassName("hello")
 console.log(hellosss);
 
+hellosss[1].innerHTML = "<b>bye</b>"
+
+
 let paras = document.getElementsByTagName("p")
 console.log(paras);
 

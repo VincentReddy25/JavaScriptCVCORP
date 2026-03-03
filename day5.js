@@ -35,3 +35,4 @@ const validateForm = (e) => {
     display.innerHTML = name
     
 }
+
